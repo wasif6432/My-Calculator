@@ -10,7 +10,7 @@
 #### The interface includes input fields for two numbers, a dropdown to select an operation, and a submit button.
 #### https://drive.google.com/file/d/1WJcPrdzcsecgfQTd_-okvFJbsAdErp91/view?usp=sharing
 #
-### Calculation Result
+### Result Page
 #### Enter two numbers and select an operation from the dropdown menu.
 #### Click the "calculate" button to submit the form.
 #### The result of the calculation will be displayed in the result field below the form.
